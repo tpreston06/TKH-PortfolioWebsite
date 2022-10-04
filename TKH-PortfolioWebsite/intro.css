@@ -1,0 +1,73 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+li a {
+    display: block;
+    color: #343A40;
+    text-align: center;
+    padding: 14px 16px;
+}
+li a:hover {
+    background-color: #CED4DA;
+}
+
+.containter {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.header {
+    width: 900px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+}
+
+.photo {
+    width: 400px;
+    height: 400px;
+    margin-left: 30px;
+}
+
+.aboutMe {
+    width: 400px;
+    height: 400px;
+    margin-left: 30px;
+}
+
+.logos {
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+}
+
+.project-container {
+    display: flex;
+    justify-content: center;
+}
+
+.project-body{
+    width: 98vw;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+}
+
+.project-item {
+    border: 8px solid rgb(108,117,125,0.8);
+    background-color:black;
+    width: 300px;
+    height: 300px;
+}

@@ -1,0 +1,18 @@
+Research a CSS library/framework such as Bootstrap, Material UI, Tailwind, Bulma and write 2 paragraphs about how it works and cite at least 2 articles - include this as a text file in your repo.
+
+Tailwind
+
+The Tailwind framework has a utility-first approach to building custom user interfaces. This means Tailwind works by allowing users to easily apply pre-existing classes directly into your HTML files like an inline style sheet. It's very customizable, by providing the the user with more flexibility over what the application looks like vs other framesworks. It also allows you to build designs without having to compromise on your style globally within your application.
+
+This framework allows you to create applications faster and easier. It has all the building blocks needed to create unique designs. Without the need to create a separate CSS file, you can control the layout, color, spacing, typography, shadows, and more with Tailwind.
+
+Benefits of Tailwind Include:
+Write less custom CSS
+Smaller CSS files
+No need to create class names
+Make safer changes
+
+citation:
+Fayock, Colby, P 2020, 'What is Tailwind CSS and How can I add it to my Website or React App?', May 19, accessed 1 Oct 2022, <https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/>
+Sapna2001, P 2021, 'Introduction to Tailwind CSS', July 3, accessed, 1 Oct 2022, <https://www.geeksforgeeks.org/introduction-to-tailwind-css/>
+Fitzgerald, Anna, P 2022, 'Tailwind CSS: What is it, Why use it & Examples', May 30, accessed, 1 Oct 2022, <https://blog.hubspot.com/website/what-is-tailwind-css#what-is-tailwind-css>
