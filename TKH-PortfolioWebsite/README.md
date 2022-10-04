@@ -27,7 +27,7 @@ Submit 2 links
 
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/tpreston06/TKH-PortfolioWebsite)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tiarious-p-36728579)
 - Figma Design File(https://www.figma.com/file/w5eZXLfEKL5VyhCwdeC7hV/Design-File-Template-(Copy)?node-id=0%3A1)
 
 
